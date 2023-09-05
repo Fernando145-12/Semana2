@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Lejano
+    uniqueID: 1849760109
+    locked: 0
+  - name: Medio
+    uniqueID: 2986270611
+    locked: 0
+  - name: Cercano
+    uniqueID: 3101776255
+    locked: 0
+  - name: Delante
+    uniqueID: 3651166499
+    locked: 0
